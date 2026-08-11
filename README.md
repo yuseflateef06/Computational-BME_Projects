@@ -8,9 +8,9 @@ This repository aggregates projects at the intersection of medical image process
 
 | Branch Name | Project Title | Stack / Tools | Core Mathematical Concepts |
 | :--- | :--- | :--- | :--- |
-| **`admm-denoising`** | Image Denoising via ADMM | MATLAB | Convex Optimization, Total Variation Regularization, Dual Ascent[cite: 7, 8, 10] |
-| **`pinn-epidemic-model`** | Physics-Informed Neural Networks (PINNs) | Python, PyTorch, SciPy | Scientific Machine Learning, Inverse Problems, Automatic Differentiation |
-| **`numerical-ode-solvers`** | Classical ODE Integration & Validation | Python, NumPy, SciPy | 4th-Order Runge-Kutta (RK4), Adaptive RK45 Integration[cite: 14] |
+| **`Convex-Optimization-&-Image-Denoising`** | Image Denoising via ADMM | MATLAB | Convex Optimization, Total Variation Regularization, Dual Ascent[cite: 7, 8, 10] |
+| **`Physics-Informed-Neural-Network-(PINN)-SIRHD-Model`** | Physics-Informed Neural Networks (PINNs) | Python, PyTorch, SciPy | Scientific Machine Learning, Inverse Problems, Automatic Differentiation |
+| **`Hopfield-Network-Neural-Memory-Model`** | Classical ODE Integration & Validation | Python, NumPy, SciPy | 4th-Order Runge-Kutta (RK4), Adaptive RK45 Integration[cite: 14] |
 
 ---
 
